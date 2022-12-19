@@ -1,0 +1,8 @@
+# PongGame
+
+Pong Game feito durante as aulas da alura
+
+COMO JOGAR:
+
+SETA PARA CIMA E PARA BAIXO MOVIMENTAM A RAQUETE ESQUEDA
+"W" e "S" MOVIMENTAM A RAQUETE DIREITA
